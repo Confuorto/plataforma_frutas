@@ -1,0 +1,4 @@
+.menu__lista{
+    display: flex;
+    column-gap: 1.25rem;
+}
